@@ -1,8 +1,7 @@
-![Samet Karabulut Banner]()
 
-## 👋 Beyaz Takkeli Tornacı 👋 Samet Karabulut
+## 👋 Hacker 👋 Samet Karabulut
 
-> Bilgisayar Mühendisi, Yazılımcı, Oyun ve Uygulama Geliştiricisi
+> Bilgisayar Mühendisi, Yazılımcı, Uygulama Geliştiricisi ve Siber Güvenlik Uzmanı
 
 ### 📱 Sosyal Medya Hesapları
 
