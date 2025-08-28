@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://youtu.be/ScO9l3QnK_A" target="_blank">
-    <img src="https://youtu.be/ScO9l3QnK_A" alt="Profil Tanıtım Videosu" width="100%"/>
-  </a>
-</div>
+<iframe width="560" height="315" src="https://youtu.be/ScO9l3QnK_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h1 align="center">Hello, World! 👋 Ben Samet Karabulut.</h1>
 <h3 align="center">Kod Yazıyor...</h3>
