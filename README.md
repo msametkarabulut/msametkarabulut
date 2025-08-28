@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://sametkarabulut.com.tr/neopos/video.mp4" target="_blank">
-    <img src="https://sametkarabulut.com.tr/neopos/video.mp4" alt="Profil Tanıtım Videosu" width="100%"/>
+  <a href="https://youtu.be/ScO9l3QnK_A" target="_blank">
+    <img src="https://youtu.be/ScO9l3QnK_A" alt="Profil Tanıtım Videosu" width="100%"/>
   </a>
 </div>
 
