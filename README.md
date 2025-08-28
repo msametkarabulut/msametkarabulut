@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/msametkarabulut?v=4" width="150px;" alt="Samet Karabulut Profil Fotoğrafı"/><br>
+  <img src="[https://avatars.githubusercontent.com/u/msametkarabulut?v=4](https://avatars.githubusercontent.com/u/178892651?v=4&size=64)" width="150px;" alt="Samet Karabulut Profil Fotoğrafı"/><br>
   <h1>Hi there 👋, I'm Samet Karabulut!</h1>
   <h3>Full Stack Developer & Software Entrepreneur from Konya, Turkey 🇹🇷</h3>
 </div>
