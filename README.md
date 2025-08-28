@@ -62,6 +62,6 @@ Yeni projeler ve işbirlikleri için her zaman açığım. Benimle aşağıdaki 
 
 ## 📈 GitHub İstatistiklerim
 
-```markdown
+
 [![Samet'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=msametkarabulut&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Samet'in Top Dilleri](https://github-readme-stats.vercel.app/api/top-langs/?username=msametkarabulut&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
