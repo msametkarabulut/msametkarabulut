@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWE2c3R6dmx0MnFoajB6aTMzOHI3NmI1Z2tmaWoyMmNqcm15cGk3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1BSxUqCq7sQp6Vw/giphy.gif" alt="Pixel Art Coding" width="100%">
+  <a href="https://sametkarabulut.com.tr/neopos/video.mp4" target="_blank">
+    <img src="https://sametkarabulut.com.tr/neopos/video.mp4" alt="Profil Tanıtım Videosu" width="100%"/>
+  </a>
 </div>
 
 <h1 align="center">Hello, World! 👋 Ben Samet Karabulut.</h1>
-<h3 align="center">Konya'dan Piksellerle Kod Yazan Bir Full Stack Maceracı 🚀</h3>
+<h3 align="center">Kod Yazıyor...</h3>
 
 <p align="center">
-  Klavyem ve ben, dijital evrende yeni dünyalar inşa eden iki kadim dostuz. Hem masaüstü hem mobil hemde web platformlarında güçlü ve etkileyici yazılımlar tasarlıyorum. Her kod satırında bir sanat eseri görmeye, her projede yeni bir hikaye yazmaya inanıyorum. 
+  Klavyem ve ben, dijital evrende yeni dünyalar inşa eden iki kadim dostuz. Hem masaüstü, hem mobil hem de web platformlarında güçlü ve etkileyici yazılımlar tasarlıyorum. Her kod satırında bir sanat eseri görmeye, her projede yeni bir hikaye yazmaya inanıyorum.
 </p>
 
 <p align="center">
@@ -38,7 +40,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### Backend & Masaüstü 
+### Backend & Masaüstü
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
@@ -70,12 +72,12 @@
 <i>Kullanılan Teknolojiler: C#, .NET, ASP.NET Core, SQL Server, ASP.NET MVC</i></p>
 
 ### 🌟 [QR Oluştur & Tara](https://play.google.com/store/apps/dev?id=8874811936377140517)
-<p> Qr oluşturur, özelleştirir ve qr kodu okuyabilir.
+<p> QR oluşturur, özelleştirir ve QR kodu okuyabilir.
 <i>Kullanılan Teknolojiler: Android Studio</i></p>
 
 ---
 
-## 📈 İstatistikler (GitHub)
+## 📈 İstatistikler
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msametkarabulut&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="GitHub İstatistikleri"/>
@@ -84,7 +86,7 @@
 
 ---
 
-## 👀 Ziyaretçi
+## 👀 Ziyaretçiler
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msametkarabulut&label=Ziyaretçi%20Sayısı&color=blue&style=flat-square" alt="Profil Görüntülenme Sayısı"/>
