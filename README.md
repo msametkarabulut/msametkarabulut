@@ -69,10 +69,6 @@
 <p>Perakende işletmeleri için geliştirdiğim, hem masaüstü hem de web tabanlı çalışan kapsamlı bir barkodlu satış ve stok takip sistemi. Hızlı satış ekranları, detaylı raporlama ve güvenli bulut entegrasyonu sunar.
 <i>Teknolojiler: C#, .NET, ASP.NET Core, SQL Server, ASP.NET MVC</i></p>
 
-### 💡 [Proje Adı 2](https://github.com/msametkarabulut/proje2) - [Projenizin kısa açıklaması]
-<p>[Daha detaylı açıklama. Projenin ne yaptığını, hangi sorunu çözdüğünü ve belki neden önemli olduğunu belirtin.]
-<i>Teknolojiler: [Kullandığınız teknolojiler]</i></p>
-
 ---
 
 ## 📊 GitHub İstatistiklerim
