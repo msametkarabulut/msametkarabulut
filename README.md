@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">Merhaba Dünya! 👋 Ben Samet Karabulut.</h1>
-<h3 align="center">Konya'dan Bir Full Stack Geliştirici ve Yazılım Girişimcisi 🇹🇷</h3>
+<h3 align="center"> Yazılımcı ... </h3>
 
 <p align="center">
-  Klavyem ve ben, dijital evrenin sınırlarını zorlayan iki kadim dostuz. Sadece kod yazmakla kalmıyor, aynı zamanda kullanıcı deneyimini zenginleştiren, güçlü ve ölçeklenebilir yazılımlar tasarlıyorum. Hem masaüstü hem mobil hem de web platformlarında projeler geliştirirken, her kod satırında bir sanat eseri görmeye ve her projede yeni bir hikaye yazmaya inanıyorum. Benimle birlikte dijital dünyanın harikalarını keşfetmeye hazır mısınız?
+  Klavyem ve ben, dijital evrenin sınırlarını zorlayan iki kadim dostuz. Sadece kod yazmakla kalmıyor, aynı zamanda kullanıcı deneyimini zenginleştiren, güçlü ve ölçeklenebilir yazılımlar tasarlıyorum. Hem masaüstü hem mobil hem de web platformlarında projeler geliştirirken, her kod satırında bir sanat eseri görmeye ve her projede yeni bir hikaye yazmaya inanıyorum.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Teknoloji Çantamdaki Araçlar (Hız Kesmeden!)
+## 🚀 Teknoloji Çantamdaki Araçlar 
 
 ### Frontend Mimarisi
 <p align="center">
@@ -84,7 +84,7 @@
 
 ---
 
-## 👀 Ziyaretçi Sayacım (Dijital Ayak İzleriniz)
+## 👀 Ziyaretçi Sayacım
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msametkarabulut&label=Ziyaretçi%20Sayısı&color=blue&style=flat-square" alt="Profil Görüntülenme Sayısı"/>
@@ -92,5 +92,5 @@
 
 ---
 <p align="center">
-  <i>Konya'dan bir sonraki seviyeye geçmek için kod yazmaya devam!</i> 🎮✨
+  <i>Kod yazmaya devam ! </i> 🎮✨
 </p>
