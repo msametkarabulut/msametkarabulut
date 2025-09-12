@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Teknoloji Çantamdaki Araçlar 
+## 🚀 Teknolojiler
 
 ### Frontend Mimarisi
 <p align="center">
@@ -63,7 +63,7 @@
 
 ---
 
-## 🎮 Proje Laboratuvarımdaki Eserler
+## 🎮 Projeler
 
 ### 🏆 [NeoPOS - Modern Barkodlu Satış Otomasyonu](https://github.com/msametkarabulut/NeoPOS)
 <p>Perakende işletmeleri için geliştirdiğim, hem masaüstü hem de web tabanlı çalışan kapsamlı bir barkodlu satış ve stok takip sistemi. Hızlı satış ekranları, detaylı raporlama ve güvenli bulut entegrasyonu sunar.
@@ -75,7 +75,7 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim (Veriler Konuşuyor!)
+## 📈 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msametkarabulut&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="GitHub İstatistikleri"/>
