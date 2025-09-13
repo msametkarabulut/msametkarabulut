@@ -73,7 +73,7 @@
 <p>QR oluşturur, özelleştirir ve QR kodu okuyabilir.
 <i>Kullanılan Teknolojiler: Android Studio</i></p>
 
-### 🌟 [KARABULUT AI](ai.sametkarabulut.com.tr)
+### 🌟 [KARABULUT AI](https://ai.sametkarabulut.com.tr)
 <p>Kendi Kendine Barındırma (Self-Hosting): Tüm yapay zeka modelleri, harici API'lere bağlı kalmadan, kendi VDS sunucum üzerinde Ollama ile çalışıyor. Bu, tam kontrol ve esneklik sağlıyor. Çoklu Model Mimarisi: Her site, kendi amacına yönelik farklı bir yapay zeka modelini kullanıyor. Akışkan Cevaplar (Streaming): Kullanıcı deneyimini en üst seviyeye çıkarmak ve zaman aşımı (timeout) hatalarını tamamen ortadan kaldırmak için sunucu ve tarayıcı arasında Server-Sent Events (SSE) teknolojisi ile anlık veri akışı sağlandı.
 <i>Kullanılan Teknolojiler: Ollama, Ubuntu Server, Node JS, React, PHP</i></p>
 ---
