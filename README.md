@@ -70,18 +70,28 @@ I have dedicated 100% of my time to mastering the following areas:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-### <img src="https://api.iconify.design/mdi:google-analytics.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=msametkarabulut&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Samet's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msametkarabulut&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### <img src="https://api.iconify.design/mdi:shield-bug.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> Approach
 
 > **"Try Harder"** is not just a motto; it is a discipline.
+
 <div align="center">
-  <img src="https://github.com/msametkarabulut/msametkarabulut/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <br/>
+  <a href="mailto:contact@sametkarabulut.com.tr">
+    <img src="https://api.iconify.design/mdi:email.svg?color=%23ffffff" height="30" style="margin-right: 15px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/msametkarabulut/">
+    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" height="30" style="margin-right: 15px"/>
+  </a>
+  <a href="https://sametkarabulut.com.tr">
+    <img src="https://api.iconify.design/mdi:web.svg?color=%23ffffff" height="30" style="margin-right: 15px"/>
+  </a>
+  <a href="https://originlabs.com.tr">
+    <img src="https://api.iconify.design/mdi:domain.svg?color=%23ffffff" height="30" style="margin-right: 15px"/>
+  </a>
+  <a href="https://github.com/msametkarabulut">
+    <img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" height="30"/>
+  </a>
+  
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=msametkarabulut&style=flat-square&color=blueviolet" alt="Visitor Counter" />
 </div>
