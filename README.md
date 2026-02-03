@@ -82,3 +82,6 @@ I have dedicated 100% of my time to mastering the following areas:
 ### <img src="https://api.iconify.design/mdi:shield-bug.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> Approach
 
 > **"Try Harder"** is not just a motto; it is a discipline.
+<div align="center">
+  <img src="https://github.com/msametkarabulut/msametkarabulut/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
