@@ -1,4 +1,14 @@
-### Hi there, I'm Samet 👋
+<div align="center">
+  <a href="https://github.com/msametkarabulut">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=800&height=100&lines=initializing+red_team_toolkit...;[+]+loading+C%23+modules+(Evasion+%26+AD);[+]+loading+PHP+exploits+(Web+%26+API);%3E+ready_to_breach." alt="Samet's Terminal" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+### <img src="https://api.iconify.design/bi:chat-text-fill.svg?color=%23ffffff" height="30" style="vertical-align:middle"/> Hi there, I'm Samet
 
 #### **Red Team Specialist | Security Researcher | Full-Stack Exploiter**
 
@@ -6,53 +16,61 @@ I am a Computer Engineering student and Offensive Security Specialist who adopts
 
 Currently, I focus on simulating advanced threat actors (Red Teaming), developing custom attack tools in **C#**, and performing advanced web application security assessments using my **PHP** background.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-### 🚀 The "Builder & Breaker" Philosophy
+### <img src="https://api.iconify.design/eos-icons:cluster-management.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> The "Builder & Breaker" Philosophy
 
 Unlike many security professionals who only know how to use tools, I know **how the systems I attack are built.**
 
 * **Why PHP?** With years of **PHP Web Development** experience, I have a deep grasp of server-side backend logic. This allows me to spot complex logic flaws that standard scanners miss, perform superior **White-box Code Reviews**, and craft custom web shells/backdoors.
 * **Why C#?** I use C# to interact directly with Windows APIs, bypass EDR/Antivirus solutions, and develop custom Command & Control (C2) agents for Active Directory environments.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-### 🛠️ Technical Arsenal
+### <img src="https://api.iconify.design/mdi:sword-cross.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> Technical Arsenal
 
-#### **🔴 Offensive Capabilities (Full-Spectrum)**
+#### **<img src="https://api.iconify.design/simple-icons:kalilinux.svg?color=%23ffffff" height="18" style="vertical-align:middle"/> Offensive Capabilities (Full-Spectrum)**
 | Domain | Details |
 | :--- | :--- |
-| **🌐 Web & API Security** | **PHP Expertise** for White-box code analysis, OWASP Top 10, Advanced SQL Injection, and Business Logic Flaw discovery. |
-| **🏢 Network & Active Directory** | Corporate network penetration testing, Kerberos attacks, Domain Privilege Escalation, and Lateral Movement. |
-| **🦠 Malware & Evasion** | Custom tool development in **C#**, EDR/Antivirus evasion techniques, Process Injection, API Hooking. |
-| **☁️ Cloud & Containers** | Docker container breakouts, Linux server security, Cloud configuration analysis. |
+| **<img src="https://api.iconify.design/simple-icons:php.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> Web & API Security** | **PHP Expertise** for White-box code analysis, OWASP Top 10, Advanced SQL Injection, and Business Logic Flaw discovery. |
+| **<img src="https://api.iconify.design/mdi:lan-connect.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> Network & AD** | Corporate network penetration testing, Kerberos attacks, Domain Privilege Escalation, and Lateral Movement. |
+| **<img src="https://api.iconify.design/simple-icons:metasploit.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> Malware & Evasion** | Custom tool development in **C#**, EDR/Antivirus evasion techniques, Process Injection, API Hooking. |
+| **<img src="https://api.iconify.design/simple-icons:docker.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> Cloud & Containers** | Docker container breakouts, Linux server security, Cloud configuration analysis. |
 
-#### **💻 Programming & Scripting**
+#### **<img src="https://api.iconify.design/mdi:code-braces.svg?color=%23ffffff" height="18" style="vertical-align:middle"/> Programming & Scripting**
 | Language | Usage Context |
 | :--- | :--- |
-| **C# / .NET** | **(Primary)** Windows API, Custom C2 Agents, Offensive Tool Development. |
-| **PHP** | **(Expert)** Web exploitation, Backend logic analysis, Exploit development. |
-| **Python** | Automation scripts, Data analysis, PoC (Proof of Concept) writing. |
-| **Bash / PowerShell** | Linux/Windows system administration and Post-Exploitation automation. |
-| **SQL** | Database structure enumeration and manipulation. |
+| **<img src="https://api.iconify.design/mdi:language-csharp.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> C# / .NET** | **(Primary)** Windows API, Custom C2 Agents, Offensive Tool Development. |
+| **<img src="https://api.iconify.design/simple-icons:php.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> PHP** | **(Expert)** Web exploitation, Backend logic analysis, Exploit development. |
+| **<img src="https://api.iconify.design/simple-icons:python.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> Python** | Automation scripts, Data analysis, PoC (Proof of Concept) writing. |
+| **<img src="https://api.iconify.design/mdi:powershell.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> PowerShell** | Linux/Windows system administration and Post-Exploitation automation. |
+| **<img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23ffffff" height="16" style="vertical-align:middle"/> SQL** | Database structure enumeration and manipulation. |
 
-#### **🐧 Operating Systems & Infrastructure**
-* **Linux:** Debian/Ubuntu administration, Kali Linux, Hardening.
-* **Windows:** Windows Server architecture, Windows 10/11 Internals.
-* **DevOps:** Git version control, Docker architecture.
+#### **<img src="https://api.iconify.design/simple-icons:linux.svg?color=%23ffffff" height="18" style="vertical-align:middle"/> Operating Systems & Infrastructure**
+* **<img src="https://api.iconify.design/simple-icons:debian.svg?color=%23ffffff" height="14" style="vertical-align:middle"/> Linux:** Debian/Ubuntu administration, Kali Linux, Hardening.
+* **<img src="https://api.iconify.design/mdi:microsoft-windows.svg?color=%23ffffff" height="14" style="vertical-align:middle"/> Windows:** Windows Server architecture, Windows 10/11 Internals.
+* **<img src="https://api.iconify.design/simple-icons:git.svg?color=%23ffffff" height="14" style="vertical-align:middle"/> DevOps:** Git version control, Docker architecture.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-### 🔭 Current Focus
+### <img src="https://api.iconify.design/mdi:target-account.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> Current Focus
 
 I have dedicated 100% of my time to mastering the following areas:
 1.  **OSCP Certification:** Validating my practical penetration testing skills with international standards.
 2.  **Advanced C# Tradecraft:** Writing custom C2 frameworks to understand memory management and evasion techniques.
 3.  **Cross-Platform Attacks:** Moving beyond Windows to compromise Linux-based enterprise environments.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-### 📊 GitHub Stats
+### <img src="https://api.iconify.design/mdi:google-analytics.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=msametkarabulut&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Samet's Stats" />
@@ -61,6 +79,6 @@ I have dedicated 100% of my time to mastering the following areas:
 
 ---
 
-### 🛡️ Approach
+### <img src="https://api.iconify.design/mdi:shield-bug.svg?color=%23ffffff" height="24" style="vertical-align:middle"/> Approach
 
 > **"Try Harder"** is not just a motto; it is a discipline.
